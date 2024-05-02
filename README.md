@@ -15,10 +15,10 @@ The dataset utilized for this project was obtained from Kaggle. It comprises 614
 7. ApplicantIncome: Income of the applicant
 8. CoapplicantIncome: Income of the co-applicant
 9. LoanAmount: Amount of loan applied for
-10. Loan_Amount_Term: Term of the loan in months
-11. Credit_History: Credit history of the applicant
-12. Property_Area: Type of property area
-13. Loan_Status: Status of the loan (target variable)
+10. Loan_Amount_Term: Term of the loan in Days
+12. Credit_History: Credit history of the applicant
+13. Property_Area: Type of property area (Rural,Urban & SubUrban)
+14. Loan_Status: Status of the loan (target variable)
 
 ## Data Preprocessing and Model Building
 
