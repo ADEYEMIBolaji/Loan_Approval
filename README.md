@@ -1,4 +1,3 @@
-```markdown
 # Loan Approval Predictions
 
 Welcome to the Loan Approval Predictions project! Below you'll find essential information on how to navigate through the project, understand the data, and utilize the predictive model for determining loan eligibility.
@@ -46,4 +45,3 @@ The project remains open for further development, particularly in the following 
 Feel free to contribute or explore these avenues for further improving the project's utility and effectiveness.
 
 Thank you for your interest in Loan Approval Predictions!
-```
