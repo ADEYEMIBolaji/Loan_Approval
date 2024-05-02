@@ -37,7 +37,7 @@ The model was deployed using Gradio, enabling users to interactively input appli
 
 Below is a screenshot of the web interface:
 
-![Loan Approval Predictions](https://imgur.com/a/0J2tArN)
+![Screenshot of Loan Approval Prediction Web Interface](https://imgur.com/a/0J2tArN)
 
 ## Future Developments
 
