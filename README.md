@@ -33,7 +33,11 @@ To prepare the data for modeling, the following steps were undertaken:
 
 The final model was saved using a Pipeline, encompassing data preprocessing steps and the trained classifier. Additionally, ShapAnalysis was conducted to provide insights into feature importance for model explainability.
 
-The model was deployed using Gradio, enabling users to interactively input applicant details and receive predictions regarding loan eligibility. However, currently, the deployment requires cloning the repository to your local system. [Click here](http://127.0.0.1:7861/) to access the deployed model.
+The model was deployed using Gradio, enabling users to interactively input applicant details and receive predictions regarding loan eligibility. However, currently, the deployment requires cloning the repository to your local system. [Click here](http://127.0.0.1:7860) to access the deployed model.
+
+Below is a screenshot of the web interface:
+
+![Loan Approval Predictions](https://imgur.com/a/0J2tArN)
 
 ## Future Developments
 
