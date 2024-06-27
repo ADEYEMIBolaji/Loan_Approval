@@ -1,0 +1,3 @@
+[submodule "Loan_Approval"]
+	path = Loan_Approval
+	url = https://github.com/ADEYEMIBolaji/Loan_Approval.git
